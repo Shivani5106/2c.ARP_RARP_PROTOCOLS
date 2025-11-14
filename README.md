@@ -1,14 +1,13 @@
-# 🧠 Network Protocol Simulation: ARP & RARP using Python (TCP Sockets)
-## 👨‍💻 DEVELOPED BY
-
+# ARP & RARP using Python (TCP Sockets)
+## DEVELOPED BY 
 #### Name: **SHIVANI M** 
 #### Reg No: **212224040313**
 
-## 📌 AIM
+## AIM
 
 To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Resolution Protocol (RARP)** using Python and TCP socket programming.
 
-## ⚙️ REQUIREMENTS
+## REQUIREMENTS
 
 - Python 3.x
 - Basic understanding of socket programming
@@ -16,9 +15,9 @@ To simulate the **Address Resolution Protocol (ARP)** and **Reverse Address Reso
 
 ---
 
-## 🔁 ALGORITHMS
+## ALGORITHMS
 
-### ✅ ARP (Address Resolution Protocol)
+###  ARP (Address Resolution Protocol)
 
 **Client:**
 1. Start the client script.
